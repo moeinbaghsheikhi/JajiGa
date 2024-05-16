@@ -45,6 +45,4 @@ Acknowledgements:
 
 We would like to thank all contributors and users who have helped improve TigerAPI with their feedback and contributions. Your support is greatly appreciated!
 
-# PhoneBook-API
-# TigerAPI_V2
 # JajiGa
